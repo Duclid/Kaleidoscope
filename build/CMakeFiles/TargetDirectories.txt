@@ -1,0 +1,3 @@
+/Users/dhp/Dev/cpp/Kaleidoscope/build/CMakeFiles/Test.dir
+/Users/dhp/Dev/cpp/Kaleidoscope/build/CMakeFiles/edit_cache.dir
+/Users/dhp/Dev/cpp/Kaleidoscope/build/CMakeFiles/rebuild_cache.dir
