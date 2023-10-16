@@ -1,1 +1,0 @@
-/usr/bin/clang++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Test.dir/test.cpp.o CMakeFiles/Test.dir/parser.cpp.o CMakeFiles/Test.dir/lex.cpp.o -o Test 
