@@ -7,5 +7,6 @@ project(KaleidoscopeCompiler)
 set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
+
 # 生成可执行文件 
 add_executable(Kaleidoscope kaleidoscope.cpp)
