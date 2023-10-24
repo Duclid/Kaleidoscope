@@ -1,5 +1,7 @@
 # 使用LLVM实现一个简单的编译器
 
+编译命令：clang++ -g -O3 toy.cpp `llvm-config --cxxflags --ldflags --system-libs --libs core` -o toy
+
 ## 一、目标
 基于LLVM官网教程实现一个基于 Kaleidoscope 语言的编译器
 

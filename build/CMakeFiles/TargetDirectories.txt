@@ -1,3 +1,0 @@
-/home/dhp/code/cpp/Kaleidoscope/build/CMakeFiles/Kaleidoscope.dir
-/home/dhp/code/cpp/Kaleidoscope/build/CMakeFiles/edit_cache.dir
-/home/dhp/code/cpp/Kaleidoscope/build/CMakeFiles/rebuild_cache.dir
